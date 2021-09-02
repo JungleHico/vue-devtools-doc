@@ -1,5 +1,7 @@
 # 如何安装 Vue 调试工具 Vue Devtools
 
+### Vue2.0
+
 推荐在浏览器（Chrome）安装 Vue Devtools 调试工具，可以快速查看 Vue组件和状态管理 Vuex 等的数据。
 下面提供几种安装方法：
 - 方法一：如果有梯子，可以直接在 Chrome 的应用商店下载；
@@ -40,3 +42,6 @@ cnpm install vue-devtools -g
 2. 通过 `npm config get prefix` 找到 npm 的全局安装目录，然后同方法二的第4步，只不过加载路径更改为：`node_moudules/vue-devtools/vender`
 
 3. 同方法二的第5步
+
+### Vue3.0 devtools
+6.0 Beta 扩展压缩包已上传，解压后在浏览器扩展页面加载即可。
