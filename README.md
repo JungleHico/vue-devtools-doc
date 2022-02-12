@@ -44,4 +44,6 @@ cnpm install vue-devtools -g
 3. 同方法二的第5步
 
 ### Vue3.0 devtools
-6.0 Beta 扩展压缩包已上传，解压后在浏览器扩展页面加载即可。
+
+- Chrome：vue-devtools-6.0.0.beta21.crx 插件已上传，打开 chrome 浏览器扩展程序页(chrome://extensions/)，将 .crx 拖拽到当前页即可。
+- Edge：打开 [Edge 加载项页面](https://microsoftedge.microsoft.com/addons/Microsoft-Edge-Extensions-Home)，搜索 vue devtools，安装 Beta 版本的插件即可。
